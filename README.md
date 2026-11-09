@@ -1,4 +1,3 @@
-# Star-Patteen-in-c-
 *****
 ****
 ***
