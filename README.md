@@ -5,3 +5,5 @@ Fahrenheit to Celsius #2
 Number Pattern #3
 
 Reverse of a Number #4
+
+Factorial Function #5
