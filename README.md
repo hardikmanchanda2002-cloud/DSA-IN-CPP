@@ -7,3 +7,5 @@ Number Pattern #3
 Reverse of a Number #4
 
 Factorial Function #5
+
+Selection Sort #6
