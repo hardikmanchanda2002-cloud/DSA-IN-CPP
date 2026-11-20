@@ -13,3 +13,5 @@ Selection Sort #6
 Binary Search #7
 
 Bubble Sort #8
+
+Sum of Array Equal to Element #9
