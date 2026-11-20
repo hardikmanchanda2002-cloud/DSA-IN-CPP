@@ -11,3 +11,5 @@ Factorial Function #5
 Selection Sort #6
 
 Binary Search #7
+
+Bubble Sort #8
